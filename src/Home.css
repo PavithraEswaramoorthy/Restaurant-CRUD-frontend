@@ -1,0 +1,39 @@
+.home-container {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    background-image: url('https://wallpapers.com/images/featured/restaurant-background-2ez77umko2vj5w02.jpg');
+    background-size: cover;
+    background-position: center;
+    color: white;
+    justify-content: flex-start;
+    align-items: flex-end;
+    padding: 20px;
+    box-sizing: border-box;
+  }
+  
+  .navbar {
+    margin-bottom: auto;
+  }
+  
+  .navbar ul {
+    display: flex;
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .navbar li {
+    margin: 0 10px;
+  }
+  
+  .navbar a {
+    color: white;
+    text-decoration: none;
+  }
+  
+  .content {
+    padding: 20px;
+    text-align: center;
+  }
+  
